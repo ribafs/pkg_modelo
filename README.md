@@ -1,4 +1,4 @@
-# Pequeno pacote/package para Joomla 3 que empacota o mod_modelo e o com_modelo
+# Pequeno pacote/package para Joomla 3 
 
 Apenas para demonstrar coo se cria um package para Joomla 3
 
