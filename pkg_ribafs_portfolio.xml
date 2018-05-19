@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extension type="package" version="3.0" method="upgrade">
+  <name>COM_RIBAFS_PORTFOLIO</name>
+  <author>Ribamar FS</author>
+  <creationDate>Outubro 2017</creationDate>
+  <packagename>ribafs_portfolio</packagename>
+  <version>1.0.1</version>
+  <url>https://ribafs.org</url>
+  <packager>RibaFS Portfolio</packager>
+  <packagerurl>http://ribafs.org</packagerurl>
+  <description>COM_RIBAFS_PORTFOLIO_DESCRIPTION</description>
+  <files folder="packages">
+    <file type="module" id="mod_ribafs_portfolio" client="site">mod_ribafs_portfolio.zip</file>
+    <file type="component" id="com_ribafs_portfolio">com_ribafs_portfolio.zip</file>
+  </files>
+</extension>
